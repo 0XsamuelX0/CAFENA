@@ -8,7 +8,7 @@ import FrontendDevelope from 'Samuel Salazar';
 
 class Bio extends FrontendDeveloper {
   name     = 'Samuel Salazar';
-  title    = 'CAFENA';
+  title to web   = 'CAFENA';
   company  = ' ∞ | Remote';
   location = 'Medellín, COP';
 }
