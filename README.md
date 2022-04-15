@@ -6,7 +6,7 @@
 ```js
 import FrontendDevelope from 'Samuel Salazar';
 
-class web work {
+class Web Work {
   name     = 'Samuel Salazar';
   title    = 'CAFENA';
   company  = ' ∞ | Remote';
